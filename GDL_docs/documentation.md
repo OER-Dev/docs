@@ -1,4 +1,4 @@
-# Documentation
+# The Global Digital Library
 
 The COVID-19 outbreak has created a situation that poses a colossal threat, now and in the future, to children and their families. A grim reality especially compounded among children already affected by poverty, disability or social exclusion. Experts predict that, given high contagion risks and the time needed to distribute a vaccine, COVID-19 is poised to be a long-term global health and welfare crisis.
 
