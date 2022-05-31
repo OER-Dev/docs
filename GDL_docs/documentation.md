@@ -18,3 +18,35 @@ GDL is a platform that aims to support other platforms and projects. It is a cle
 
 ## GDL architecture
 ![](https://github.com/OER-Dev/docs/blob/main/GDL_docs/images/service_1.png)
+
+The Global Digital Library is developed based on a number of open source platforms and products. The resources on the platform are licensed under Creative Commons.
+
+The portfolio of open source products in use to develop GDL includes:
+
+- Wordpress
+- H5P
+- Strapi
+- React and Next.js
+- MongoDb
+- Google Cloud storage
+- Materials and components from Material-UI are used on parts of the portfolio
+- Machine learning - Apache Airflow with Cloud Composer, Postgresql and Python
+
+### OpenLrs.io and Topics.dev
+
+The future technical architecture of the GDL includes services that are in the early stages of development.
+
+OpenLrs.io is an API based microservice that collects user data from the GDL. These user data are structured as xAPI statements and stored in the OpenLrs.io repository. The first Machine Learning data pipeline is under development.
+
+Topics.dev is a microservice that provides endpoints with content structures used on the GDL. Curriculum alignment of content is in the roadmap for 2023 and will make it possible for governments to align content to their own curriculum. Topics.dev will be the foundation for the GDL work on curriculum alignment and topics structures in general.
+
+## EduPix
+
+In February 2022, EduPix.io was launched. EduPix is a spin-off project from the Global Digital Library (GDL) and contains images from a subset of the GDL books and games. In addition to GDL content, the EduPix collection contains objects provided by the Asia Foundation, Pratham Books, BookDash, African Storybooks, All Children Reading, USAID, the Norwegian Digital Learning Arena (NDLA), Holland Warchild, and Curious Learning. EduPix currently has 20.000+ images and illustrations. Our backlog of unpublished objects to vet for publication is currently at around 50.000.
+
+Images and illustrations are made available through an open search, open APIs and a Wordpress plugin.
+
+The openly licensed resources are made available to the public through open APIs and through Wordpress plugins
+
+## GDL structure
+![](https://github.com/OER-Dev/docs/blob/main/GDL_docs/images/basic_structure.png)
