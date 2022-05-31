@@ -50,3 +50,16 @@ The openly licensed resources are made available to the public through open APIs
 
 ## GDL structure
 ![](https://github.com/OER-Dev/docs/blob/main/GDL_docs/images/basic_structure.png)
+
+### Languages
+
+The technical architecture of the Global Digital Library starts with language. The platform currently offers 96 languages and all topics, badges and resources are directly or indirectly related to a language.
+
+### Topics
+
+Structure and navigation on the GDL is based on topics. Topics can be nested with subtopics. For example &quot;Early Grade Reading&quot; as parent for &quot;Library Books&quot; and &quot;Classroom Books&quot;. The structure and presentation for math topics are different from reading. Every topic can have a specific H5P defined as &quot;Level up resource&quot; and every topic can have an Achievement/Badge related to the topic and the level up H5P.
+
+### Resources
+
+The GDL currently includes 7000 resources. Books implemented as H5P are the main category of content for all languages. Some selected languages also now include other resources and games. This includes videos and interactive content in different categories. This content portfolio is developed based on H5P and the different H5P content types. The GDL team has developed some custom content types for our platform.
+
