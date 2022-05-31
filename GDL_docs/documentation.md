@@ -63,3 +63,21 @@ Structure and navigation on the GDL is based on topics. Topics can be nested wit
 
 The GDL currently includes 7000 resources. Books implemented as H5P are the main category of content for all languages. Some selected languages also now include other resources and games. This includes videos and interactive content in different categories. This content portfolio is developed based on H5P and the different H5P content types. The GDL team has developed some custom content types for our platform.
 
+## Badges and adaptive learning
+![](https://github.com/OER-Dev/docs/blob/main/GDL_docs/images/badges.png)
+
+Badges can be earned for selected languages. A badge is based on a specific H5P ID and related to a topic or a resource. H5Ps unique for each language. A badge is unique for each language. A badge can be related directly to a resource without being related to a topic. The GDL startet using badges in May 2022 on Early Math, expanding the use in different other topic aries over time.
+
+### Adaptive learning path (under construction)
+
+For selected topics in Early Math and other subjects
+
+## Content development building blocks
+
+![](https://github.com/OER-Dev/docs/blob/main/GDL_docs/images/layers.png)
+
+Platform agnostic implementation and development of educational materials is key to meet the needs of underserved communities and for global scale.
+
+Many organizations and countries already have platforms under development. Our APIs are developed to support reuse of content from the GDL on other platforms. All content and curriculum metadata on the GDL platform can be used across all major global platforms and any new projects that come into development.
+
+The Global Digital Library content and resources are developed to be platform agnostic and usable in different contexts.
