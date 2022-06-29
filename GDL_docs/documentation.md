@@ -63,7 +63,7 @@ Badges can be earned for selected languages. A badge is based on a specific H5P 
 
 ### Adaptive learning path (under construction)
 
-For selected topics in Early Math and other subjects 
+An adaptive learning path is undeere developement for selected topics in Early Math. A first beta will be launched in September 2022.
 
 ## Content development building blocks
 
