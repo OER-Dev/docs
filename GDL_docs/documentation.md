@@ -32,13 +32,6 @@ The portfolio of open source products in use to develop GDL includes:
 - Materials and components from Material-UI are used on parts of the portfolio
 - Machine learning - Apache Airflow with Cloud Composer, Postgresql and Python
 
-### OpenLrs.io and Topics.dev
-
-The future technical architecture of the GDL includes services that are in the early stages of development.
-
-OpenLrs.io is an API based microservice that collects user data from the GDL. These user data are structured as xAPI statements and stored in the OpenLrs.io repository. The first Machine Learning data pipeline is under development.
-
-Topics.dev is a microservice that provides endpoints with content structures used on the GDL. Curriculum alignment of content is in the roadmap for 2023 and will make it possible for governments to align content to their own curriculum. Topics.dev will be the foundation for the GDL work on curriculum alignment and topics structures in general.
 
 ## EduPix
 
