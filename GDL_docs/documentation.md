@@ -52,11 +52,14 @@ The technical architecture of the Global Digital Library starts with language. T
 
 ### Topics
 
-Structure and navigation on the GDL is based on topics. Topics can be nested with subtopics. For example &quot;Early Grade Reading&quot; as parent for &quot;Library Books&quot; and &quot;Classroom Books&quot;. The structure and presentation for math topics are different from reading. Topics can have a specific H5P defined as &quot;Level up resource&quot; Some topic can have an Achievement/Badge related to the topic and the level up H5P. The subtopics can be contextualized in a sequence defined by the "Topic Sequence order" metadata field on topics. 
+Structure and navigation on the GDL is based on topics. Topics can be nested with subtopics. For example &quot;Library Books&quot; as parent for &quot;Level 1&quot; and &quot;Level 2&quot;. The structure and presentation for math topics are different from reading. Topics can have a specific H5P defined as &quot;Level up resource&quot; Some topic can have an Achievement/Badge related to the topic and the level up H5P. The subtopics can be contextualized in a sequence defined by the "Topic Sequence order" metadata field on topics. 
 
 ### Resources
 
 The GDL currently includes 7000 resources. Books implemented as H5P are the main category of content for all languages. Some selected languages also now include other resources and games. This includes videos and interactive content in different categories. This content portfolio is developed based on H5P and the different H5P content types. The GDL team has developed some custom content types for our platform.
+
+### File formats
+The main file format on the GDL is H5P. Some resources are available as H5P, PDF and EPUB. Others are only available as H5P. In 9 languages the resources are only available as PDF. Amharic and Sidamo are examples of these "PDF-only" languages. 
 
 ## Badges and adaptive learning
 ![](https://github.com/OER-Dev/docs/blob/main/GDL_docs/images/badges.png)
