@@ -39,7 +39,9 @@ In February 2022, EduPix.io was launched. EduPix is a spin-off project from the 
 
 Images and illustrations are made available through an open search, open APIs and a Wordpress plugin.
 
-The openly licensed resources are made available to the public through open APIs and through Wordpress plugins
+## API 
+The openly licensed resources on the GDL are made available to the public through open APIs and through a Wordpress plugin.
+[Link to API doc for the GDL](https://digitallibrary.io/api/)
 
 ## GDL structure
 ![](https://github.com/OER-Dev/docs/blob/main/GDL_docs/images/basic_structure.png)
