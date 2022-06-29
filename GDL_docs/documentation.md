@@ -17,7 +17,7 @@ Norad refers to the Digital Public Goods Alliance and the [DPGA Standard](https:
 GDL is a platform that aims to support other platforms and projects. It is a clearly defined goal that the content on GDL should be available on other relevant platforms as well as on the GDL. An open and platform agnostic design is therefore central to the project&#39;s architecture and methodology.
 
 ## GDL architecture
-![](https://github.com/OER-Dev/docs/blob/main/GDL_docs/images/service_1.png)
+![](https://github.com/OER-Dev/docs/blob/main/GDL_docs/images/gdl-design.png)
 
 The Global Digital Library is developed based on a number of open source platforms and products. The resources on the platform are licensed under Creative Commons.
 
