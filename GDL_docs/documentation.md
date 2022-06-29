@@ -63,7 +63,7 @@ Badges can be earned for selected languages. A badge is based on a specific H5P 
 
 ### Adaptive learning path (under construction)
 
-For selected topics in Early Math and other subjects
+For selected topics in Early Math and other subjects 
 
 ## Content development building blocks
 
