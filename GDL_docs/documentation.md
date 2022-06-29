@@ -50,7 +50,7 @@ The technical architecture of the Global Digital Library starts with language. T
 
 ### Topics
 
-Structure and navigation on the GDL is based on topics. Topics can be nested with subtopics. For example &quot;Early Grade Reading&quot; as parent for &quot;Library Books&quot; and &quot;Classroom Books&quot;. The structure and presentation for math topics are different from reading. Every topic can have a specific H5P defined as &quot;Level up resource&quot; and every topic can have an Achievement/Badge related to the topic and the level up H5P.
+Structure and navigation on the GDL is based on topics. Topics can be nested with subtopics. For example &quot;Early Grade Reading&quot; as parent for &quot;Library Books&quot; and &quot;Classroom Books&quot;. The structure and presentation for math topics are different from reading. Topics can have a specific H5P defined as &quot;Level up resource&quot; Some topic can have an Achievement/Badge related to the topic and the level up H5P. The subtopics can be contextualized in a sequence defined by the "Topic Sequence order" metadata field on topics. 
 
 ### Resources
 
