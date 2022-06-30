@@ -59,7 +59,7 @@ Structure and navigation on the GDL is based on topics. Topics can be nested wit
 The GDL currently includes 7000 resources. Books implemented as H5P are the main category of content for all languages. Some selected languages also now include other resources and games. This includes videos and interactive content in different categories. This content portfolio is developed based on H5P and the different H5P content types. The GDL team has developed some custom content types for our platform.
 
 ### File formats
-The main file format on the GDL is H5P. Some resources are available as H5P, PDF and EPUB. Others are only available as H5P. In 9 languages the resources are only available as PDF. Amharic and Sidamo are examples of these "PDF-only" languages. 
+The main file format on the GDL is H5P. Some resources are available as H5P, PDF and EPUB. Others are only available as H5P. In 9 languages the resources are only available as PDF. Amharic and Sidamo are examples of languages that contain these "PDF-only" resources. 
 
 ## Badges and adaptive learning
 ![](https://github.com/OER-Dev/docs/blob/main/GDL_docs/images/badges.png)
