@@ -54,6 +54,20 @@ The technical architecture of the Global Digital Library starts with language. T
 
 Structure and navigation on the GDL is based on topics. Topics can be nested with subtopics. For example &quot;Library Books&quot; as parent for &quot;Level 1&quot; and &quot;Level 2&quot;. The structure and presentation for math topics are different from reading. Topics can have a specific H5P defined as &quot;Level up resource&quot; Some topic can have an Achievement/Badge related to the topic and the level up H5P. The subtopics can be contextualized in a sequence defined by the "Topic Sequence order" metadata field on topics. 
 
+Topics are defined by the following metadata:
+- "Name". Example: "Adding 1s or 10s".
+- "Slug". Example: "adding-1s-or-10s".
+- Desctiption 
+- "Parent Category". Example: "Early Math"
+- "Image"
+- "Landingpage layout" (["List all", "Learn and practice"]). Different user interfaces for topic landingpage. 
+- "Is featured term" (For featured topics)
+- "Featured H5P ID". The H5P used will be featured on the topic landing page.
+- "Topic Achievement ID". Links topic to achivment and badge.
+- "Topic Sequence order". Defines the sequence of topics on the same level. 
+- "Level Up URL". URL to the level-up task that triggers a badge related to a topic.
+- "Add language overrides". Supports translation to different languages for topic metadata.   
+
 ### Resources
 
 The GDL currently includes 7000 resources. Books implemented as H5P are the main category of content for all languages. Some selected languages also now include other resources and games. This includes videos and interactive content in different categories. This content portfolio is developed based on H5P and the different H5P content types. The GDL team has developed some custom content types for our platform.
