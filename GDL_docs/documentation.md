@@ -81,7 +81,7 @@ Resources are defined by the following metadata:
 - "License". Contains SPDX id for the correct Creative Commons license. 
 - "Language". Links the resource to the correct language. 
 - "Topic". Links a resource to one or more topics. 
-- "Resource type". One of following [Video, Book, Game]
+- "Resource type". One of following [Video, Book, Game]. Used to filter in search and to show correct visuel element for resources in lists. 
 - "Featured image". One image illustrating the resource. 
 - "Topic category". Defines one of two categories [Learn, Play]. Used when "Landingpage layout" = "Learn and practice"
 
