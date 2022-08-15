@@ -83,6 +83,7 @@ Resources are defined by the following metadata:
 - "Topic". Links a resource to one or more topics. 
 - "Resource type". One of following [Video, Book, Game]
 - "Featured image". One image illustrating the resource. 
+- "Topic category". Defines one of two categories [Learn, Play]. Used when "Landingpage layout" = "Learn and practice"
 
 ### File formats
 The main file format on the GDL is H5P. Some resources are available as H5P, PDF and EPUB. Others are only available as H5P. In 9 languages the resources are only available as PDF. Amharic and Sidamo are examples of languages that contain these "PDF-only" resources. 
