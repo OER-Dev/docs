@@ -70,7 +70,19 @@ Topics are defined by the following metadata:
 
 ### Resources
 
-The GDL currently includes 7000 resources. Books implemented as H5P are the main category of content for all languages. Some selected languages also now include other resources and games. This includes videos and interactive content in different categories. This content portfolio is developed based on H5P and the different H5P content types. The GDL team has developed some custom content types for our platform.
+The GDL currently includes 8000 resources. Books implemented as H5P are the main category of content for all languages. Some selected languages also now include other resources and games. This includes videos and interactive content in different categories. This content portfolio is developed based on H5P and the different H5P content types. The GDL team has developed some custom content types for our platform.
+
+Resources are defined by the following metadata:
+- "Name"(post name)
+- "URL/Permalink" (Uniqe URL to resource)
+- "H5Pid". Defines id to H5P reated to resourse (Custom field). 
+- "Publisher". Name of publisher of content. Shown only for PDF content (Custom field) .  
+- "License" (Custom field). Defines license for API endpoint. (Custom field, will be discontinued and replaced by the existing license tag)
+- "License". Contains SPDX id for the correct Creative Commons license. 
+- "Language". Links the resource to the correct language. 
+- "Topic". Links a resource to one or more topics. 
+- "Resource type". One of following [Video, Book, Game]
+- "Featured image". One image illustrating the resource. 
 
 ### File formats
 The main file format on the GDL is H5P. Some resources are available as H5P, PDF and EPUB. Others are only available as H5P. In 9 languages the resources are only available as PDF. Amharic and Sidamo are examples of languages that contain these "PDF-only" resources. 
