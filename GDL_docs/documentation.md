@@ -60,7 +60,7 @@ Topics are defined by the following metadata:
 - Desctiption 
 - "Parent Category". Example: "Early Math"
 - "Image"
-- "Landingpage layout" (["List all", "Learn and practice"]). Different user interfaces for topic landingpage. 
+- "Landingpage layout" (["List all", "Learn and practice", "Learn and practice list view"]). Different user interfaces for topic landingpage. 
 - "Is featured term" (For featured topics)
 - "Featured H5P ID". The H5P used will be featured on the topic landing page.
 - "Topic Achievement ID". Links topic to achivment and badge.
